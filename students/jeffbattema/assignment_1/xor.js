@@ -3,7 +3,7 @@ var firstName, lastName;
 function preferredName (arg1, arg2)
 {
 
-return (arg1 && arg2 || !arg1 && !arg2) ? false : (arg1?arg1:"" + arg2?arg2:"");
+return ( (arg1 && !arg2) || (!arg1 && arg2) ? (arg1 || arg2) : false);
 
 }
 
