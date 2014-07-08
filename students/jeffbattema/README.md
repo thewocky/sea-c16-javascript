@@ -4,4 +4,4 @@ I’m entirely self-taught till now. I graduated from college with an art degree
 
 Recently, the development landscape has grown so much faster than I can keep up with it, and my MO isn’t really working anymore. So many new tools have been proliferating that I literally don’t know what I should learn next. I know I need to learn Node.js, Backbone, etc. in order to stay competitive. It’s also become clear that I need to be more collaborative—I can’t work in a bubble anymore.
 
-This is why I signed up with Code Fellows. Point me in the right direction, and let’s do some good work together!
+This is why I signed up with Code Fellows. And now I've edited my readme text: 7/7/14 20:24.
