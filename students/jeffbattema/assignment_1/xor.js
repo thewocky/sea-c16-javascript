@@ -1,4 +1,4 @@
-function preferredName (arg1, arg2)
+function preferredName (firstName, lastName)
 {
-return (!arg1 == !arg2) ? false : (arg1 || arg2);
+return (!firstName == !lastName) ? false : (firstName || lastName);
 }
