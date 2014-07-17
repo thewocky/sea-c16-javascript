@@ -1,4 +1,4 @@
-// http://jsfiddle.net/gKAjv/5/
+// http://jsfiddle.net/thewocky/gKAjv/6/
 
 var people = [
   {
